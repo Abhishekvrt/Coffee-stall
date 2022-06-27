@@ -1,0 +1,33 @@
+.address{
+    font-size: 30px;
+    margin-left: 130px;
+    margin-bottom: 20px;
+}
+.bttn{
+    width: 100%;
+    padding: 7px 10px;
+    background: transparent;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    border: 1px solid #6F4E37;
+    border-radius: 5px;
+    margin-left: 130px ;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+.bttn:hover{
+    background: #6F4E37;
+    color: #fff;
+}
+.qhkvMe{
+    margin-top: 20px;
+    margin-left: 130px;
+    display: flex;
+    
+}
+.tttt{
+    margin-top: 10px;
+    margin-left: 130px;
+    display: flex;
+}
+

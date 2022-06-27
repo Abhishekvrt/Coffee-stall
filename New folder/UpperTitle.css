@@ -1,0 +1,33 @@
+.UpperTitle{
+   margin-top: 100px;
+}
+.title{
+   margin-top: 100px;
+   text-align: center;
+   font-size: 40px;
+   font-weight: 600;
+}
+.sub-title{
+   margin-top: 10px;
+   text-align: center;
+   display: flexbox;
+   justify-content: space-between;
+
+}
+.btnn{
+      width: 150px;
+      padding: 14px 0;
+      background: transparent;
+      color: rgb(0, 0, 0);
+      font-size: 15px;
+      border: 1px solid #6F4E37;
+      border-radius: 6px;
+      margin-top: 30px ;
+      cursor: pointer;
+      /* transition: background 0.3s; */
+      display: flexbox;
+  }
+  .btnn:hover{
+   background: #6F4E37;
+   color: #fff;
+}
